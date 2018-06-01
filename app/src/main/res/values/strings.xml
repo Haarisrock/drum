@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">XyloPhone</string>
+    <string name="app_name">Drum_XyloPhone</string>
+    <string name="drum_123">Drum</string>
+    <string name="Xylophone_123">Xylophone</string>
 </resources>
